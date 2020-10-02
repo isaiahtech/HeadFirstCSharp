@@ -17,7 +17,7 @@ namespace ElephantApp
                 if (input == '1')
                 {
                     Console.WriteLine("Calling lloyd.WhoAmI()");
-                    lloyd.WhoAmI;
+                    lloyd.WhoAmI();
                 }
                 else if (input == '2')
                 {
@@ -31,6 +31,11 @@ namespace ElephantApp
                     lloyd = lucinda;
                     lucinda = holder;
                     Console.WriteLine("References have been swapped");
+                } else if (input == '4')
+                {
+                    lloyd = lucinda;
+                    lloyd.EarSize = 4321;
+                    lloyd.WhoAmI();
                 }
                 else return;
                 Console.WriteLine();

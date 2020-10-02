@@ -1,0 +1,13 @@
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\bin\Debug\netcoreapp3.1\ElephantApp.exe
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\bin\Debug\netcoreapp3.1\ElephantApp.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\bin\Debug\netcoreapp3.1\ElephantApp.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\bin\Debug\netcoreapp3.1\ElephantApp.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\bin\Debug\netcoreapp3.1\ElephantApp.dll
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\bin\Debug\netcoreapp3.1\ElephantApp.pdb
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.dll
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.pdb
+D:\eMGP\csharp\HeadFirstCSharp\ElephantApp\ElephantApp\obj\Debug\netcoreapp3.1\ElephantApp.genruntimeconfig.cache
