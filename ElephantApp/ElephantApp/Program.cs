@@ -40,7 +40,7 @@ namespace ElephantApp
                 }
                 else if (input == '5')
                 {
-                    lucinda.SpeakTo(lloyd, "Hi, Lloyd!");
+                    lucinda.SpeakTo(lloyd, "Hello, Lloyd!");
                 }
                 else return;
                 Console.WriteLine();
