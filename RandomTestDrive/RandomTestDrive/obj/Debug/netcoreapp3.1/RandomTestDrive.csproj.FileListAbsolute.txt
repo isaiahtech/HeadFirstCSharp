@@ -1,0 +1,13 @@
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\bin\Debug\netcoreapp3.1\RandomTestDrive.exe
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\bin\Debug\netcoreapp3.1\RandomTestDrive.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\bin\Debug\netcoreapp3.1\RandomTestDrive.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\bin\Debug\netcoreapp3.1\RandomTestDrive.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\bin\Debug\netcoreapp3.1\RandomTestDrive.dll
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\bin\Debug\netcoreapp3.1\RandomTestDrive.pdb
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.dll
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.pdb
+D:\eMGP\csharp\HeadFirstCSharp\RandomTestDrive\RandomTestDrive\obj\Debug\netcoreapp3.1\RandomTestDrive.genruntimeconfig.cache
