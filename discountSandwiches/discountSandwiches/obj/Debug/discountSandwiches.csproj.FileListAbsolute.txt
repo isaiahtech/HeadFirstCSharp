@@ -1,0 +1,15 @@
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\MainWindow.g.cs
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\App.g.cs
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches_MarkupCompile.cache
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches_MarkupCompile.lref
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\bin\Debug\discountSandwiches.exe.config
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\bin\Debug\discountSandwiches.exe
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\bin\Debug\discountSandwiches.pdb
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\MainWindow.baml
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.g.resources
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.Properties.Resources.resources
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.csproj.GenerateResource.cache
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.exe
+D:\eMGP\csharp\HeadFirstCSharp\discountSandwiches\discountSandwiches\obj\Debug\discountSandwiches.pdb
