@@ -70,7 +70,7 @@ namespace discountSandwiches
 
     class MenuItem
     {
-        public Random Randomizer = new Random();
+        public static Random Randomizer = new Random();
 
         public string[] Proteins = { "Roast beef", "Salami", "Turkey", "Ham", "Pastrami", "Tofu" };
         public string[] Condiments = { "yellow mustard", "brown mustard", "honey mustard", "mayo", "relish", "french dressing" };
