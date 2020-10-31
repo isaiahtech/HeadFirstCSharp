@@ -1,0 +1,13 @@
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.exe
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.dll
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.pdb
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.dll
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.pdb
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.genruntimeconfig.cache
