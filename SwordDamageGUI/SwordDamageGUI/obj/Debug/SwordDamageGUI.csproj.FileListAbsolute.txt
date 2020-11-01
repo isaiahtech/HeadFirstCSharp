@@ -1,0 +1,5 @@
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\MainWindow.g.cs
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\App.g.cs
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI_MarkupCompile.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI_MarkupCompile.lref

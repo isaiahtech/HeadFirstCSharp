@@ -1,0 +1,15 @@
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\MainWindow.g.cs
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\App.g.cs
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal_MarkupCompile.cache
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal_MarkupCompile.lref
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\bin\Debug\DamageCalculatorFinal.exe.config
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\bin\Debug\DamageCalculatorFinal.exe
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\bin\Debug\DamageCalculatorFinal.pdb
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\MainWindow.baml
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.g.resources
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.Properties.Resources.resources
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.csproj.GenerateResource.cache
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.exe
+D:\eMGP\csharp\HeadFirstCSharp\DamageCalculatorFinal\DamageCalculatorFinal\obj\Debug\DamageCalculatorFinal.pdb
