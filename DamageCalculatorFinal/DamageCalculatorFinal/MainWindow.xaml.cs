@@ -33,6 +33,8 @@ namespace DamageCalculatorFinal
         public void RollDice()
         {
             swordDamage.Roll = random.Next(1, 7) + random.Next(1, 7) + random.Next(1, 7);
+            swordDamage.SetFlaming(flaming.IsChecked.Value);
+            swordDamage.SetMagic(magic.IsChecked.Value);
             DisplayDamage();
         }
 
