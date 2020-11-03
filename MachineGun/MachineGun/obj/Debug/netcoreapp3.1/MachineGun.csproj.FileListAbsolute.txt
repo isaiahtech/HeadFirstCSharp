@@ -1,0 +1,13 @@
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.exe
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.dll
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.pdb
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.dll
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.pdb
+D:\eMGP\csharp\HeadFirstCSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.genruntimeconfig.cache

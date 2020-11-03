@@ -1,0 +1,13 @@
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\bin\Debug\netcoreapp3.1\HiLoSample.exe
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\bin\Debug\netcoreapp3.1\HiLoSample.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\bin\Debug\netcoreapp3.1\HiLoSample.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\bin\Debug\netcoreapp3.1\HiLoSample.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\bin\Debug\netcoreapp3.1\HiLoSample.dll
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\bin\Debug\netcoreapp3.1\HiLoSample.pdb
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.dll
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.pdb
+D:\eMGP\csharp\HeadFirstCSharp\HiLoSample\HiLoSample\obj\Debug\netcoreapp3.1\HiLoSample.genruntimeconfig.cache
