@@ -6,7 +6,13 @@ namespace MachineGun
     {
         static void Main(string[] args)
         {
-            MachineGunClass gun = new MachineGunClass();
+            int numberOfBullets = ReadInt(20, "Number of bullets");
+            int magazineSize = ReadInt(16, "Magazine size");
+
+            Console.Write($"Loaded [false]: ");
+            bool.TryParse(Console.ReadLine(), out bool isLoaded);
+
+            MachineGunClass gun = new MachineGunClass(numberOfBullets, magazineSize, isLoaded);
             while (true)
             {
                 Console.WriteLine($"{gun.Bullets} bullets, {gun.BulletsLoaded} loaded");
@@ -17,6 +23,21 @@ namespace MachineGun
                 else if (key == 'r') gun.Reload();
                 else if (key == '+') gun.Bullets += gun.MagazineSize;
                 else if (key == 'q') return;
+            }
+
+            static int ReadInt(int lastUsedValue, string prompt)
+            {
+                Console.Write(prompt + " [" + lastUsedValue + "]: ");
+                string line = Console.ReadLine();
+                if (int.TryParse(line, out int value))
+                {
+                    Console.WriteLine(" using value " + value);
+                    return value;
+                } else
+                {
+                    Console.WriteLine(" using default value " + lastUsedValue);
+                    return lastUsedValue;
+                }
             }
         }
     }

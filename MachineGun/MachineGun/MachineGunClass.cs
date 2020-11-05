@@ -37,4 +37,10 @@ public class MachineGunClass
 		return true;
     }
 	
+	public MachineGunClass(int bullets, int magazineSize, bool loaded)
+    {
+		this.bullets = bullets;
+		MagazineSize = magazineSize;
+		if (!loaded) Reload();
+    }
 }
