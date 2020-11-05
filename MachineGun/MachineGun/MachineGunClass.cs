@@ -2,36 +2,37 @@
 
 public class MachineGunClass
 {
-	public const int MAGAZINE_SIZE = 16;
+	public int MagazineSize { get; private set; } = 16;
 
-	private int bullets = 0;
-	private int bulletsLoaded = 0;
+    private int bullets = 0;
 
-	public int GetBulletsLoaded() { return bulletsLoaded; }
+    public int BulletsLoaded { get; private set; }
 
-	public bool IsEmpty() { return bulletsLoaded == 0; }
+    public bool IsEmpty() { return BulletsLoaded == 0; }
 
-	public int GetBullets() { return bullets; }
-
-	public void SetBullets(int numberOfBullets)
+	public int Bullets
     {
-		if (numberOfBullets > 0)
-			bullets = numberOfBullets;
-		Reload();
+		get { return bullets; }
+		set
+        {
+			if (value > 0)
+				bullets = value;
+			Reload();
+        }
     }
 
 	public void Reload()
     {
-		if (bullets > MAGAZINE_SIZE)
-			bulletsLoaded = MAGAZINE_SIZE;
+		if (bullets > MagazineSize)
+			BulletsLoaded = MagazineSize;
 		else
-			bulletsLoaded = bullets;
+			BulletsLoaded = bullets;
     }
 
 	public bool Shoot()
     {
-		if (bulletsLoaded == 0) return false;
-		bulletsLoaded--;
+		if (BulletsLoaded == 0) return false;
+		BulletsLoaded--;
 		bullets--;
 		return true;
     }
