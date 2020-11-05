@@ -1,0 +1,13 @@
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\bin\Debug\netcoreapp3.1\MultiplicationQuiz.exe
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\bin\Debug\netcoreapp3.1\MultiplicationQuiz.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\bin\Debug\netcoreapp3.1\MultiplicationQuiz.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\bin\Debug\netcoreapp3.1\MultiplicationQuiz.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\bin\Debug\netcoreapp3.1\MultiplicationQuiz.dll
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\bin\Debug\netcoreapp3.1\MultiplicationQuiz.pdb
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.csprojAssemblyReference.cache
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.dll
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.pdb
+D:\eMGP\csharp\HeadFirstCSharp\MultiplicationQuiz\MultiplicationQuiz\obj\Debug\netcoreapp3.1\MultiplicationQuiz.genruntimeconfig.cache
