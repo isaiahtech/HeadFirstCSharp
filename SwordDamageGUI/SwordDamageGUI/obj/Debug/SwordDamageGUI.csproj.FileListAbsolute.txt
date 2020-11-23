@@ -3,3 +3,13 @@ D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\MainWindo
 D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\App.g.cs
 D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI_MarkupCompile.cache
 D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI_MarkupCompile.lref
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\bin\Debug\SwordDamageGUI.exe.config
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\bin\Debug\SwordDamageGUI.exe
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\bin\Debug\SwordDamageGUI.pdb
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\MainWindow.baml
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.g.resources
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.Properties.Resources.resources
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.csproj.GenerateResource.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.exe
+D:\eMGP\csharp\HeadFirstCSharp\SwordDamageGUI\SwordDamageGUI\obj\Debug\SwordDamageGUI.pdb
