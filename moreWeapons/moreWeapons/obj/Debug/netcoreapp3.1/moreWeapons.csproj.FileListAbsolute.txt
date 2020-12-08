@@ -1,0 +1,12 @@
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\obj\Debug\netcoreapp3.1\moreWeapons.AssemblyInfoInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\obj\Debug\netcoreapp3.1\moreWeapons.AssemblyInfo.cs
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\obj\Debug\netcoreapp3.1\moreWeapons.csproj.CoreCompileInputs.cache
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\bin\Debug\netcoreapp3.1\moreWeapons.exe
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\bin\Debug\netcoreapp3.1\moreWeapons.deps.json
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\bin\Debug\netcoreapp3.1\moreWeapons.runtimeconfig.json
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\bin\Debug\netcoreapp3.1\moreWeapons.runtimeconfig.dev.json
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\bin\Debug\netcoreapp3.1\moreWeapons.dll
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\bin\Debug\netcoreapp3.1\moreWeapons.pdb
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\obj\Debug\netcoreapp3.1\moreWeapons.dll
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\obj\Debug\netcoreapp3.1\moreWeapons.pdb
+D:\eMGP\csharp\HeadFirstCSharp\moreWeapons\moreWeapons\obj\Debug\netcoreapp3.1\moreWeapons.genruntimeconfig.cache
